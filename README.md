@@ -145,7 +145,8 @@ Feel free to use, modify, and share for educational or commercial purposes.
 
 ## 👤 Author
 
-**[PRAKASH P]**
-📧 [[prakashsivam725@gmail.com]]
-🌐 [[LinkedIn / GitHub / Portfolio link]](https://www.linkedin.com/in/prakash-p-294937251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+PRAKASH P
+📧 prakashsivam725@gmail.com
+🌐 https://www.linkedin.com/in/prakash-p-294937251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
